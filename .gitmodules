@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cPseudoMaRg"]
+	path = cPseudoMaRg
+	url = https://github.com/cran/cPseudoMaRg
+	shallow = true
+	registered = true
+[submodule "gradeR"]
+	path = gradeR
+	url = https://github.com/cran/gradeR
+	shallow = true
+	registered = true
